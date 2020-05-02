@@ -1,6 +1,6 @@
 # CASUALTY-SERVERITY-PREDICTION
 
-This is a ML based web project that uses python3 to predict Casuality Serverity Predictor as per the given parameters.
+This is a ML based web project that uses python3 to predict Casuality Serverity as per the given parameters.
 
 
 A. Python Script ![N|Solid](https://www.python.org/static/community_logos/python-powered-w-70x28.png)
